@@ -40,8 +40,9 @@
 ![SmitBhamwala's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SmitBhamwala&layout=compact&langs_count=8&hide_border=true)
 <br />
 <!-- HTML -->
+Random dev joke for you!! Keep smiling!!😂😂
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
+Refresh this page to see different jokes😉
 <br />
 
 
