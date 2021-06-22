@@ -33,14 +33,17 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a Web developer</br>
-👨‍💻  I am passionate about Web Development & I enjoy learning new things. </br>
+👨‍💻  I’m a Web developer.<br />
+📚  I enjoy learning new things and I am a fast learner.<br />
+🎶  I enjoy listening music.<br />
+✈️  I love traveling.<br />
+📽️  I like watching adventure movies.<br />
 
 ![SmitBhamwala's github stats](https://github-readme-stats.vercel.app/api?username=Smitbhamwala&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![SmitBhamwala's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SmitBhamwala&layout=compact&langs_count=8&hide_border=true)
 <br />
 <!-- HTML -->
-Random dev joke for you. Keep smiling!!
+Random dev joke for you. Keep smiling!!<br />
 (For more jokes, refresh this page😉)
 
 
