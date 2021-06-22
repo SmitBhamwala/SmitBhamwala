@@ -44,7 +44,7 @@ Random dev joke for you. Keep smiling!!
 (For more jokes, refresh this page😉)
 
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" theme= 'gradientBlue' />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <br />
 
