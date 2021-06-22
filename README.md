@@ -36,7 +36,7 @@
 🌱 I’m a Web developer</br>
 👨‍💻  I am passionate about Web Development & I enjoy learning new things. </br>
 
-![SmitBhamwala's github stats](https://github-readme-stats.vercel.app/api?username=SmitBhamwala&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![SmitBhamwala's github stats](https://github-readme-stats.vercel.app/api?username=Smit Bhamwala&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![SmitBhamwala's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SmitBhamwala&layout=compact&langs_count=8&hide_border=true)
 <br />
 
