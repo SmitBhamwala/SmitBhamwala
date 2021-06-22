@@ -41,7 +41,9 @@
 <br />
 <!-- HTML -->
 Random dev joke for you!! Keep smiling!!😂😂
+
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 Refresh this page to see different jokes😉
 <br />
 
