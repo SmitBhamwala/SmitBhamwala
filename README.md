@@ -33,7 +33,7 @@
 <br />
 
 ### About Me 🚀
-👨‍💻  I’m a Web developer.<br />
+👨‍💻  I’m a Web Developer.<br />
 📚  I enjoy learning new things and I am a fast learner.<br />
 🎶  I enjoy listening music.<br />
 ✈️  I love traveling.<br />
