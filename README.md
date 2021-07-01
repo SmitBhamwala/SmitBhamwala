@@ -12,22 +12,22 @@
 
 
 <a href="https://www.linkedin.com/in/smit-bhamwala-8195971b0/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  />
 </a>
 <a href="https://twitter.com/Crazy__SB">
   <img align="left" width="26px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/twitter-xxl.png" />
 </a>
 <a href="mailto:smitbhamwala@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
 </a>
 <a href="https://www.instagram.com/crazy___sb/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" />
 </a>
 <a href="https://www.facebook.com/smit.bhamwala">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/733/733547.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCisfwEGK92LF8Xcu7nBLtdg">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />
 </a>
 
 <br />
