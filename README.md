@@ -21,7 +21,7 @@
   <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
 </a>
 <a href="https://www.instagram.com/crazy___sb/">
-  <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" />
+  <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />
 </a>
 <a href="https://www.facebook.com/smit.bhamwala">
   <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/733/733547.png" />
