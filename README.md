@@ -12,7 +12,7 @@
 
 
 <a href="https://www.linkedin.com/in/smit-bhamwala-8195971b0/">
-  <img style="color:red" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img style="color:red;" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/Crazy__SB">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
