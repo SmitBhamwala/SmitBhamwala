@@ -15,7 +15,7 @@
   <img align="left" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  />
 </a>
 <a href="https://twitter.com/Crazy__SB">
-  <img align="left" width="26px" src="https://www.iconsdb.com/icons/preview/caribbean-blue/twitter-xxl.png" />
+  <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />
 </a>
 <a href="mailto:smitbhamwala@gmail.com">
   <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
