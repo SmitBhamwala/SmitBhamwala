@@ -42,10 +42,8 @@
 ![SmitBhamwala's github stats](https://github-readme-stats.vercel.app/api?username=Smitbhamwala&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![SmitBhamwala's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SmitBhamwala&layout=compact&langs_count=8&hide_border=true)
 <br />
-
-
-
-
+<br />
+<br />
 <!-- HTML -->
 Random dev joke for you. Keep smiling!!<br />
 (For more jokes, refresh this page😉)
