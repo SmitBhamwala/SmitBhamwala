@@ -12,7 +12,8 @@
 
 
 <a href="https://www.linkedin.com/in/smit-bhamwala-8195971b0/">
-  <img align="left" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  />
+  <img align="left" width="24px" src="![image](https://github.com/SmitBhamwala/SmitBhamwala/assets/47658884/df17763d-c214-4dc3-ac42-144599d3168f)
+"  />
 </a>
 <a href="https://twitter.com/Crazy__SB">
   <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />
