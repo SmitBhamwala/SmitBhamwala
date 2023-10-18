@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Smit Bhamwala](https://www.linkedin.com/in/smit-bhamwala-8195971b0/)!!
+## Hey, I'm [Smit Bhamwala](https://www.linkedin.com/in/smit-bhamwala-8195971b0/)!!
 <!--
 **SmitBhamwala/SmitBhamwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
