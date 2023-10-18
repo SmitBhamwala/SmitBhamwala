@@ -20,7 +20,7 @@
 <a href="mailto:smitbhamwala@gmail.com">
   <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
 </a>
-<a href="https://www.instagram.com/crazy___sb/">
+<a href="https://www.instagram.com/its_smit_without_h/">
   <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
 </a>
 <a href="https://www.facebook.com/smit.bhamwala">
