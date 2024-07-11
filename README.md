@@ -1,4 +1,4 @@
-## Hey, I'm [Smit Bhamwala](https://www.linkedin.com/in/smit-bhamwala-8195971b0/)!!
+## Hey, I'm [Smit Bhamwala](https://smitbhamwala.vercel.app)!!
 <!--
 **SmitBhamwala/SmitBhamwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +33,7 @@
 <br />
 
 ### About Me 🚀
-👨‍💻  I’m a Web Developer.<br />
+👨‍💻  I’m a Full Stack Web Developer.<br />
 📚  I enjoy learning new things and I am a fast learner.<br />
 🎶  I enjoy listening music.<br />
 ✈️  I love traveling.<br />
@@ -46,7 +46,7 @@
 <br />
 <!-- HTML -->
 Random dev joke for you. Keep smiling!!<br />
-(For more jokes, refresh this page😉)
+(For more jokes, refresh this page✌️)
 
 
 <img src="https://readme-jokes.vercel.app/api?theme=algolia" alt="Jokes Card" />
